@@ -1,6 +1,6 @@
 swat_ws_core2
 =====
-Current version: **1.6.34.1**<br>
+Current version: **1.6.34.1**<br><br>
 
 #### This project is used in;
 | Project | swat_ws_core2 version | |
