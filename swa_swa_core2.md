@@ -4,7 +4,7 @@ Current version: **1.6.34.1**<br>
 Status: Active
 <br>
 
-#### Dependents report
+#### This project is used in;
 | Project | swat_ws_core2 version | |
 | ---- | :----: | ----: |
 | swat_ws_core | 1.6.31.0 | ![#FFA500](https://placehold.it/10/FFA500/000000?text=+) <font color='orange'>out of date</font> |
@@ -14,7 +14,7 @@ Status: Active
 | swat_ws_core2 | 1.6.34.0 | ![#FFA500](https://placehold.it/10/FFA500/000000?text=+) <font color='orange'>out of date</font> |
 <br>
 
-#### Project's Dependencies report
+#### This project is using;
 | Project | current | using | |
 | ---- | :----: | :----: | ----: |
 | acaw_rpdc | 0.2.7.1 | 0.2.7.1 | ![#006400](https://placehold.it/10/006400/000000?text=+) <font color='green'>current</font> |
