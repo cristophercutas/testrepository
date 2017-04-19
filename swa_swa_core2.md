@@ -1,8 +1,6 @@
 swat_ws_core2
 =====
 Current version: **1.6.34.1**<br>
-Status: Active
-<br>
 
 #### This project is used in;
 | Project | swat_ws_core2 version | |
